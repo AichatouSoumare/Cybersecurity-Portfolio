@@ -80,3 +80,6 @@ department does not know which assets would be at risk. The risk to assets or fi
 from governing bodies is high because Botium Toys does not have all of the necessary
 controls in place and is not fully adhering to best practices related to compliance
 regulations that keep critical data private/secure.
+
+## Controls Assessment Risk
+
