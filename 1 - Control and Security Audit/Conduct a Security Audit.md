@@ -34,25 +34,25 @@ to improve Botium Toys’ security posture.
 
 Assets managed by the IT Department include:
 
-● On-premises equipment for in-office business needs.
+* On-premises equipment for in-office business needs.
 
-● Employee equipment: end-user devices (desktops/laptops, smartphones),
+* Employee equipment: end-user devices (desktops/laptops, smartphones),
 remote workstations, headsets, cables, keyboards, mice, docking stations,
 surveillance cameras, etc.
 
-● Storefront products available for retail sale on site and online; stored in the
+* Storefront products available for retail sale on site and online; stored in the
 company’s adjoining warehouse.
 
-● Management of systems, software, and services: accounting,
+* Management of systems, software, and services: accounting,
 telecommunication, database, security, ecommerce, and inventory management.
 
-● Internet access.
+* Internet access.
 
-● Internal network.
+* Internal network.
 
-● Data retention and storage.
+* Data retention and storage.
 
-● Legacy system maintenance: end-of-life systems that require human monitoring.
+* Legacy system maintenance: end-of-life systems that require human monitoring.M
 
 ## Risk assessment
 
@@ -84,5 +84,7 @@ regulations that keep critical data private/secure.
 ## Controls Assessment Risk
 
 Does Botium Toys currenly have this control in place?
+
+ 
 
 
