@@ -9,3 +9,9 @@ I have developed a cybersecurity portfolio showcasing various tasks and projects
 
 I am currently trying to improve my written and verbal communication and i want to get better at programming too. I'm currently in a **1 year program to become Web Developper**. I would learn langages like **JavaScript**, **Angular**, **PHP**, **Symfony**. I want to use it to have a better understanding of langages like **Python**, **SQL** and with **Linux** too. 
 I would call myself a very curious person, i dont like the routine so the continuous learning in this field matches perfectly with who i am. 
+
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
