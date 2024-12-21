@@ -85,6 +85,61 @@ regulations that keep critical data private/secure.
 
 Does Botium Toys currenly have this control in place?
 
+|  Yes/No/? | Control  |  Explanations |
+| ------------ | ------------ | ------------ |
+|  testing |  testing | testing  |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+
+## Compliance Checklist
+
+Does Botium Toys currenly adhrere to this compliance best practice?
+
+- Payment Card Industry Data Security Standard (PCI DSS).
+
+|  Yes/No/? | Best Practice  |  Explanations |
+| ------------ | ------------ | ------------ |
+| testing  |  testing | testing  |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+
+- GDPR
+
+|  Yes/No/? | Best Practice  |  Explanations |
+| ------------ | ------------ | ------------ |
+| testing  |  testing | testing  |
+|   |   |   |
+|   |   |   |
+
+- System and Organizations Controls
+
+|  Yes/No/? | Best Practice  |  Explanations |
+| ------------ | ------------ | ------------ |
+| testing  |  testing | testing  |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+
+## Recommendations
+
+After researching Botium Toys's security posture, the analysts agreed that the security practice is far from the expectation. It lacks of protection of confidentialiy of sensitive information. The following are:
+
+1. Least privilege
+2. Disaster recovery plan
+3. Password policies
+4. Encryption
+5. Password management system
+
+To close compliance gaps, Botium must implement and establish policies that address the points mentioned above. Additionally, Botium should update its assets to ensure that any new controls are quickly identified, thereby enhancing their security practices.
  
 
 
