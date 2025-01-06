@@ -2,15 +2,15 @@
 
 _This scenario is based on a fictional company:_
 
-"Botium Toys is a small U.S. business that develops and sells toys. The business has a single physical location, which serves as their main office, a storefront, and warehouse for their 
-products. However, Botium Toy’s online presence has grown, attracting customers in the U.S. and abroad. As a result, their information technology (IT) department is under increasing pressure 
-to support their online market worldwide. 
+"Botium Toys is a small U.S. business that develops and sells toys. The business has a single physical location, which serves as their main office, a storefront, and warehouse for their
+products. However, Botium Toy’s online presence has grown, attracting customers in the U.S. and abroad. As a result, their information technology (IT) department is under increasing pressure
+to support their online market worldwide.
 
 The manager of the IT department has decided that an internal IT audit needs to be conducted. She's worried about maintaining compliance and business operations as the company grows without a clear plan.
-She believes an internal audit can help better secure the company’s infrastructure and help them identify and mitigate potential risks, threats, or vulnerabilities to critical assets. The manager is also 
-interested in ensuring that they comply with regulations related to internally processing and accepting online payments and conducting business in the European Union (E.U.).  
+She believes an internal audit can help better secure the company’s infrastructure and help them identify and mitigate potential risks, threats, or vulnerabilities to critical assets. The manager is also
+interested in ensuring that they comply with regulations related to internally processing and accepting online payments and conducting business in the European Union (E.U.).
 
-The IT manager starts by implementing the National Institute of Standards and Technology Cybersecurity Framework (NIST CSF), establishing an audit scope and goals, listing assets currently managed by the 
+The IT manager starts by implementing the National Institute of Standards and Technology Cybersecurity Framework (NIST CSF), establishing an audit scope and goals, listing assets currently managed by the
 IT department, and completing a risk assessment. The goal of the audit is to provide an overview of the risks and/or fines that the company might experience due to the current state of their security posture.
 
 Your task is to review the IT manager’s scope, goals, and risk assessment report. Then, perform an internal audit by completing a controls and compliance checklist. "
@@ -34,25 +34,25 @@ to improve Botium Toys’ security posture.
 
 Assets managed by the IT Department include:
 
-* On-premises equipment for in-office business needs.
+- On-premises equipment for in-office business needs.
 
-* Employee equipment: end-user devices (desktops/laptops, smartphones),
-remote workstations, headsets, cables, keyboards, mice, docking stations,
-surveillance cameras, etc.
+- Employee equipment: end-user devices (desktops/laptops, smartphones),
+  remote workstations, headsets, cables, keyboards, mice, docking stations,
+  surveillance cameras, etc.
 
-* Storefront products available for retail sale on site and online; stored in the
-company’s adjoining warehouse.
+- Storefront products available for retail sale on site and online; stored in the
+  company’s adjoining warehouse.
 
-* Management of systems, software, and services: accounting,
-telecommunication, database, security, ecommerce, and inventory management.
+- Management of systems, software, and services: accounting,
+  telecommunication, database, security, ecommerce, and inventory management.
 
-* Internet access.
+- Internet access.
 
-* Internal network.
+- Internal network.
 
-* Data retention and storage.
+- Data retention and storage.
 
-* Legacy system maintenance: end-of-life systems that require human monitoring.M
+- Legacy system maintenance: end-of-life systems that require human monitoring.M
 
 ## Risk assessment
 
@@ -70,6 +70,7 @@ Additionally, they will need to classify existing assets and determine the impac
 loss of existing assets, including systems, on business continuity.
 
 ### Risk score
+
 On a scale of 1 to 10, the risk score is 8, which is fairly high. This is due to a lack of
 controls and adherence to compliance best practices.
 
@@ -85,19 +86,19 @@ regulations that keep critical data private/secure.
 
 Does Botium Toys currenly have this control in place?
 
-|  Yes/No/? | Control  |  Explanations |
-| ------------ | ------------ | ------------ |
-|  testing |  testing | testing  |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+| Yes/No/? | Control | Explanations |
+| -------- | ------- | ------------ |
+| No       | testing | testing      |
+| No       |         |              |
+| Yes      |         |              |
+| ?        |         |              |
+| Yes      |         |              |
+| No       |         |              |
+| No       |         |              |
+| No       |         |              |
+| Yes      |         |              |
+| Yes      |         |              |
+| Yes      |         |              |
 
 ## Compliance Checklist
 
@@ -105,29 +106,29 @@ Does Botium Toys currenly adhrere to this compliance best practice?
 
 - Payment Card Industry Data Security Standard (PCI DSS).
 
-|  Yes/No/? | Best Practice  |  Explanations |
-| ------------ | ------------ | ------------ |
-| testing  |  testing | testing  |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+| Yes/No/? | Best Practice | Explanations |
+| -------- | ------------- | ------------ |
+| testing  | testing       | testing      |
+|          |               |              |
+|          |               |              |
+|          |               |              |
 
 - GDPR
 
-|  Yes/No/? | Best Practice  |  Explanations |
-| ------------ | ------------ | ------------ |
-| testing  |  testing | testing  |
-|   |   |   |
-|   |   |   |
+| Yes/No/? | Best Practice | Explanations |
+| -------- | ------------- | ------------ |
+| testing  | testing       | testing      |
+|          |               |              |
+|          |               |              |
 
 - System and Organizations Controls
 
-|  Yes/No/? | Best Practice  |  Explanations |
-| ------------ | ------------ | ------------ |
-| testing  |  testing | testing  |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+| Yes/No/? | Best Practice | Explanations |
+| -------- | ------------- | ------------ |
+| testing  | testing       | testing      |
+|          |               |              |
+|          |               |              |
+|          |               |              |
 
 ## Recommendations
 
@@ -140,6 +141,3 @@ After researching Botium Toys's security posture, the analysts agreed that the s
 5. Password management system
 
 To close compliance gaps, Botium must implement and establish policies that address the points mentioned above. Additionally, Botium should update its assets to ensure that any new controls are quickly identified, thereby enhancing their security practices.
- 
-
-
