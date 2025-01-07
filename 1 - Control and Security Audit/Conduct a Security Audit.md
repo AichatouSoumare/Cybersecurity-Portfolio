@@ -82,23 +82,26 @@ from governing bodies is high because Botium Toys does not have all of the neces
 controls in place and is not fully adhering to best practices related to compliance
 regulations that keep critical data private/secure.
 
-## Controls Assessment Risk
+## Controls Assessment Checklist
 
 Does Botium Toys currenly have this control in place?
 
-| Yes/No/? | Control | Explanations |
-| -------- | ------- | ------------ |
-| No       | Least Privilege | testing      |
-| No       |  Disaster recovery plans       |              |
-| Yes      |    Password policies     |              |
-| ?        |   Access control policies      |              |
-| Yes      |         |              |
-| No       |         |              |
-| No       |         |              |
-| No       |         |              |
-| Yes      |         |              |
-| Yes      |         |              |
-| Yes      |         |              |
+| Yes/No/? | Control Name                                                        | Explanations |
+| -------- | ------------------------------------------------------------------- | ------------ |
+|          | Least Privilege                                                     |              |
+|          | Disaster recovery plans                                             |              |
+|          | Password policies                                                   |              |
+|          | Separation of duties                                                |              |
+|          | Firewall                                                            |              |
+|          | Intrusion detection system (IDS)                                    |              |
+|          | Backups                                                             |              |
+|          | Antivirus software                                                  |              |
+|          | Manual monitoring, maintenance, and intervention for legacy systems |              |
+|          | Encryption                                                          |              |
+|          | Password management system                                          |              |
+|          | Locks                                                               |              |
+|          | Closed-circuit television (CCTV) surveillance                       |              |
+|          | Fire detection                                                      |              |
 
 ## Compliance Checklist
 
