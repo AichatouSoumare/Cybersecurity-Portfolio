@@ -88,10 +88,10 @@ Does Botium Toys currenly have this control in place?
 
 | Yes/No/? | Control | Explanations |
 | -------- | ------- | ------------ |
-| No       | testing | testing      |
-| No       |         |              |
-| Yes      |         |              |
-| ?        |         |              |
+| No       | Least Privilege | testing      |
+| No       |  Disaster recovery plans       |              |
+| Yes      |    Password policies     |              |
+| ?        |   Access control policies      |              |
 | Yes      |         |              |
 | No       |         |              |
 | No       |         |              |
