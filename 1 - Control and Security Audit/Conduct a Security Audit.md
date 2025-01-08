@@ -86,22 +86,22 @@ regulations that keep critical data private/secure.
 
 Does Botium Toys currenly have this control in place?
 
-| Yes/No/? | Control Name                                                        | Explanations |
-| -------- | ------------------------------------------------------------------- | ------------ |
-|          | Least Privilege                                                     |              |
-|          | Disaster recovery plans                                             |              |
-|          | Password policies                                                   |              |
-|          | Separation of duties                                                |              |
-|          | Firewall                                                            |              |
-|          | Intrusion detection system (IDS)                                    |              |
-|          | Backups                                                             |              |
-|          | Antivirus software                                                  |              |
-|          | Manual monitoring, maintenance, and intervention for legacy systems |              |
-|          | Encryption                                                          |              |
-|          | Password management system                                          |              |
-|          | Locks                                                               |              |
-|          | Closed-circuit television (CCTV) surveillance                       |              |
-|          | Fire detection                                                      |              |
+| Yes/No/? | Control Name                                                        | Explanations                                                                                                       |
+| -------- | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| No       | Least Privilege                                                     | Everyone has access to the data internally stored, there can be a malicious breach if it's not taken care properly. |
+|   No       | Disaster recovery plans                                             |                                                                                                                    |
+|          | Password policies                                                   |                                                                                                                    |
+|          | Separation of duties                                                |                                                                                                                    |
+|          | Firewall                                                            |                                                                                                                    |
+|          | Intrusion detection system (IDS)                                    |                                                                                                                    |
+|          | Backups                                                             |                                                                                                                    |
+|          | Antivirus software                                                  |                                                                                                                    |
+|          | Manual monitoring, maintenance, and intervention for legacy systems |                                                                                                                    |
+| No       | Encryption                                                          | Customer's credit card informations are not protected. The company should ensures that only authorized parties can access sensitive information, protecting it from hackers, eavesdroppers, and other malicious actors.                                                     |
+|          | Password management system                                          |                                                                                                                    |
+|          | Locks                                                               |                                                                                                                    |
+| Yes      | Closed-circuit television (CCTV) surveillance                       | The company's store location is well equiped with up-to-date CCTV's and locks.                                             |
+|     Yes     | Fire detection                                                      |        The company's warehouse and stores have functionning fire detection  and prevention systems. The team sould keep on maintaining them.                                                                                                        |
 
 ## Compliance Checklist
 
@@ -109,29 +109,30 @@ Does Botium Toys currenly adhrere to this compliance best practice?
 
 - Payment Card Industry Data Security Standard (PCI DSS).
 
-| Yes/No/? | Best Practice | Explanations |
-| -------- | ------------- | ------------ |
-| testing  | testing       | testing      |
-|          |               |              |
-|          |               |              |
-|          |               |              |
+| Yes/No/? | Best Practice                                                                                       | Explanations |
+| -------- | --------------------------------------------------------------------------------------------------- | ------------ |
+|          | Only authorized users have access to customer's credit card information.                            |              |
+|          | Credit card information is stored, accepted, processed, and transmitted, in a secure environment.   |              |
+|          | Implement data encryption procedures to better secure credit card transaction touchpoints and data. |              |
+|          | Adopt secure password management policies.                                                          |              |
 
-- GDPR
+-General Data Protection Regulation (GDPR)
 
-| Yes/No/? | Best Practice | Explanations |
-| -------- | ------------- | ------------ |
-| testing  | testing       | testing      |
-|          |               |              |
-|          |               |              |
+| Yes/No/? | Best Practice                                                                                                     | Explanations |
+| -------- | ----------------------------------------------------------------------------------------------------------------- | ------------ |
+| testing  | E.U. customers’ data is kept private/secured.                                                                     | testing      |
+|          | There is a plan in place to notify E.U. customers within 72 hours if their data is compromised/there is a breach. |              |
+|          | Ensure data is properly classified and inventoried.                                                               |              |
+|          | Enforce privacy policies, procedures, and processes to properly document and maintain data.                       |              |
 
-- System and Organizations Controls
+- System and Organizations Controls (SOC Type 1, SOC Type 2)
 
-| Yes/No/? | Best Practice | Explanations |
-| -------- | ------------- | ------------ |
-| testing  | testing       | testing      |
-|          |               |              |
-|          |               |              |
-|          |               |              |
+| Yes/No/? | Best Practice                                                                              | Explanations |
+| -------- | ------------------------------------------------------------------------------------------ | ------------ |
+| testing  | User access policies are established.                                                      | testing      |
+|          | Sensitive data (PII/SPII) is confidential/private.                                         |              |
+|          | Data integrity ensures the data is consistent, complete, accurate, and has been validated. |              |
+|          | Data is available to individuals authorized to access it.                                  |              |
 
 ## Recommendations
 
