@@ -41,7 +41,7 @@ Assets managed by the IT Department include:
   surveillance cameras, etc.
 
 - Storefront products available for retail sale on site and online; stored in the
-  company’s adjoining warehouse.
+  company’s adjoining 
 
 - Management of systems, software, and services: accounting,
   telecommunication, database, security, ecommerce, and inventory management.
