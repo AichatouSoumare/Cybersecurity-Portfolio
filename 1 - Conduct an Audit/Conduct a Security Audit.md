@@ -130,7 +130,7 @@ Does Botium Toys currenly adhrere to this compliance best practice?
 | Yes/No/? | Best Practice                                                                              | Explanations |
 | -------- | ------------------------------------------------------------------------------------------ | ------------ |
 | testing  | User access policies are established.                                                      | testing      |
-|          | Sensitive data (PII/SPII) is confidential/private.                                         |              |
+|       testing   | Sensitive data (PII/SPII) is confidential/private.                                         |              |
 |          | Data integrity ensures the data is consistent, complete, accurate, and has been validated. |              |
 |          | Data is available to individuals authorized to access it.                                  |              |
 
