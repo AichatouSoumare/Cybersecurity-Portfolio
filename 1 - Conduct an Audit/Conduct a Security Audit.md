@@ -86,22 +86,22 @@ regulations that keep critical data private/secure.
 
 Does Botium Toys currenly have this control in place?
 
-| Yes/No/? | Control Name                                                        | Explanations                                                                                                       |
-| -------- | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| No       | Least Privilege                                                     | Everyone has access to the data internally stored, there can be a malicious breach if it's not taken care properly. |
-|   No       | Disaster recovery plans                                             |                                                                                                                    |
-|          | Password policies                                                   |                                                                                                                    |
-|          | Separation of duties                                                |                                                                                                                    |
-|          | Firewall                                                            |                                                                                                                    |
-|          | Intrusion detection system (IDS)                                    |                                                                                                                    |
-|          | Backups                                                             |                                                                                                                    |
-|     Yes     | Antivirus software                                                  |       The antivirus software is active and regularly monitored by IT Team                                                                                                             |
-|          | Manual monitoring, maintenance, and intervention for legacy systems |                                                                                                                    |
-| No       | Encryption                                                          | Customer's credit card informations are not protected. The company should ensures that only authorized parties can access sensitive information, protecting it from hackers, eavesdroppers, and other malicious actors.                                                     |
-|          | Password management system                                          |                                                                                                                    |
-|          | Locks                                                               |                                                                                                                    |
-| Yes      | Closed-circuit television (CCTV) surveillance                       | The company's store location is well equiped with up-to-date CCTV's and locks.                                             |
-|     Yes     | Fire detection                                                      |        The company's warehouse and stores have functionning fire detection  and prevention systems. The team sould keep on maintaining them.                                                                                                        |
+| Yes/No/? | Control Name                                                        | Explanations                                                                                                                                                                                                            |
+| -------- | ------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| No       | Least Privilege                                                     | Everyone has access to the data internally stored, there can be a malicious breach if it's not taken care properly.                                                                                                     |
+| No       | Disaster recovery plans                                             |                                                                                                                                                                                                                         |
+|          | Password policies                                                   |                                                                                                                                                                                                                         |
+|          | Separation of duties                                                |                                                                                                                                                                                                                         |
+|          | Firewall                                                            |                                                                                                                                                                                                                         |
+|          | Intrusion detection system (IDS)                                    |                                                                                                                                                                                                                         |
+|          | Backups                                                             |                                                                                                                                                                                                                         |
+| Yes      | Antivirus software                                                  | The antivirus software is active and regularly monitored by IT Team                                                                                                                                                     |
+|          | Manual monitoring, maintenance, and intervention for legacy systems |                                                                                                                                                                                                                         |
+| No       | Encryption                                                          | Customer's credit card informations are not protected. The company should ensures that only authorized parties can access sensitive information, protecting it from hackers, eavesdroppers, and other malicious actors. |
+|          | Password management system                                          |                                                                                                                                                                                                                         |
+|          | Locks                                                               |                                                                                                                                                                                                                         |
+| Yes      | Closed-circuit television (CCTV) surveillance                       | The company's store location is well equiped with up-to-date CCTV's and locks.                                                                                                                                          |
+| Yes      | Fire detection                                                      | The company's warehouse and stores have functionning fire detection and prevention systems. The team sould keep on maintaining them.                                                                                    |
 
 ## Compliance Checklist
 
@@ -130,8 +130,8 @@ Does Botium Toys currenly adhrere to this compliance best practice?
 | Yes/No/? | Best Practice                                                                              | Explanations |
 | -------- | ------------------------------------------------------------------------------------------ | ------------ |
 | testing  | User access policies are established.                                                      | testing      |
-|       testing   | Sensitive data (PII/SPII) is confidential/private.                                         |              |
-|        testing  | Data integrity ensures the data is consistent, complete, accurate, and has been validated. |              |
+| testing  | Sensitive data (PII/SPII) is confidential/private.                                         |              |
+| testing  | Data integrity ensures the data is consistent, complete, accurate, and has been validated. |              |
 |          | Data is available to individuals authorized to access it.                                  |              |
 
 ## Recommendations
