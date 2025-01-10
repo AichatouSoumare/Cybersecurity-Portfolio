@@ -111,8 +111,8 @@ Does Botium Toys currenly adhrere to this compliance best practice?
 
 | Yes/No/? | Best Practice                                                                                       | Explanations |
 | -------- | --------------------------------------------------------------------------------------------------- | ------------ |
-|          | Only authorized users have access to customer's credit card information.                            |              |
-|          | Credit card information is stored, accepted, processed, and transmitted, in a secure environment.   |              |
+|    No      | Only authorized users have access to customer's credit card information.                            |              |
+|   No       | Credit card information is stored, accepted, processed, and transmitted, in a secure environment.   |              |
 |          | Implement data encryption procedures to better secure credit card transaction touchpoints and data. |              |
 |          | Adopt secure password management policies.                                                          |              |
 
@@ -120,10 +120,10 @@ Does Botium Toys currenly adhrere to this compliance best practice?
 
 | Yes/No/? | Best Practice                                                                                                     | Explanations |
 | -------- | ----------------------------------------------------------------------------------------------------------------- | ------------ |
-| testing  | E.U. customers’ data is kept private/secured.                                                                     | testing      |
+| No  | E.U. customers’ data is kept private/secured.                                                                     | testing      |
 |          | There is a plan in place to notify E.U. customers within 72 hours if their data is compromised/there is a breach. |              |
 |          | Ensure data is properly classified and inventoried.                                                               |              |
-|          | Enforce privacy policies, procedures, and processes to properly document and maintain data.                       |              |
+|     No     | Enforce privacy policies, procedures, and processes to properly document and maintain data.                       |              |
 
 - System and Organizations Controls (SOC Type 1, SOC Type 2)
 
