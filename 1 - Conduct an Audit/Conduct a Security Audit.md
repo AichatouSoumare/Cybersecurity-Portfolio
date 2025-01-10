@@ -93,7 +93,7 @@ Does Botium Toys currenly have this control in place?
 |          | Password policies                                                   |                                                                                                                                                                                                                         |
 |          | Separation of duties                                                |                                                                                                                                                                                                                         |
 |          | Firewall                                                            |                                                                                                                                                                                                                         |
-|     No     | Intrusion detection system (IDS)                                    |                                                                                                                                                                                                                         |
+| No       | Intrusion detection system (IDS)                                    |                                                                                                                                                                                                                         |
 |          | Backups                                                             |                                                                                                                                                                                                                         |
 | Yes      | Antivirus software                                                  | The antivirus software is active and regularly monitored by IT Team                                                                                                                                                     |
 |          | Manual monitoring, maintenance, and intervention for legacy systems |                                                                                                                                                                                                                         |
@@ -111,8 +111,8 @@ Does Botium Toys currenly adhrere to this compliance best practice?
 
 | Yes/No/? | Best Practice                                                                                       | Explanations |
 | -------- | --------------------------------------------------------------------------------------------------- | ------------ |
-|    No      | Only authorized users have access to customer's credit card information.                            |              |
-|   No       | Credit card information is stored, accepted, processed, and transmitted, in a secure environment.   |              |
+| No       | Only authorized users have access to customer's credit card information.                            |              |
+| No       | Credit card information is stored, accepted, processed, and transmitted, in a secure environment.   |              |
 |          | Implement data encryption procedures to better secure credit card transaction touchpoints and data. |              |
 |          | Adopt secure password management policies.                                                          |              |
 
@@ -120,18 +120,18 @@ Does Botium Toys currenly adhrere to this compliance best practice?
 
 | Yes/No/? | Best Practice                                                                                                     | Explanations |
 | -------- | ----------------------------------------------------------------------------------------------------------------- | ------------ |
-| No  | E.U. customers’ data is kept private/secured.                                                                     | testing      |
+| No       | E.U. customers’ data is kept private/secured.                                                                     | testing      |
 |          | There is a plan in place to notify E.U. customers within 72 hours if their data is compromised/there is a breach. |              |
 |          | Ensure data is properly classified and inventoried.                                                               |              |
-|     No     | Enforce privacy policies, procedures, and processes to properly document and maintain data.                       |              |
+| No       | Enforce privacy policies, procedures, and processes to properly document and maintain data.                       |              |
 
 - System and Organizations Controls (SOC Type 1, SOC Type 2)
 
 | Yes/No/? | Best Practice                                                                              | Explanations |
 | -------- | ------------------------------------------------------------------------------------------ | ------------ |
-| testing  | User access policies are established.                                                      | testing      |
-| testing  | Sensitive data (PII/SPII) is confidential/private.                                         |              |
-| testing  | Data integrity ensures the data is consistent, complete, accurate, and has been validated. |              |
+| No       | User access policies are established.                                                      | testing      |
+| No       | Sensitive data (PII/SPII) is confidential/private.                                         |              |
+| No       | Data integrity ensures the data is consistent, complete, accurate, and has been validated. |              |
 |          | Data is available to individuals authorized to access it.                                  |              |
 
 ## Recommendations
