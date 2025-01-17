@@ -101,7 +101,7 @@ Does Botium Toys currenly have this control in place?
 | No       | Password management system                                          |                                                                                                                                                                                                                         |
 | Yes      | Locks                                                               |                                                                                                                                                                                                                         |
 | Yes      | Closed-circuit television (CCTV) surveillance                       | The company's store location is well equiped with up-to-date CCTV's and locks.                                                                                                                                          |
-| Yes      | Fire detectio                                                      | The company's warehouse and stores have functionning fire detection and prevention systems. The team sould keep on maintaining them.                                                                                    |
+| Yes      | Fire detection                                                     | The company's warehouse and stores have functionning fire detection and prevention systems. The team sould keep on maintaining them.                                                                                    |
 
 ## Compliance Checklist
 
