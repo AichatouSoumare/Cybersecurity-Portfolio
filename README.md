@@ -19,6 +19,5 @@ I have developed a cybersecurity portfolio showcasing various tasks and projects
 I am currently trying to improve my written and verbal communication and i want to get better at programming too. I'm currently in a **1 year program to become Web Developper** which i think can help me discover what makes a good developer in general. I am currently learning langages like **JavaScript**, **Angular**, **PHP**, **Symfony** in my current studies. I want to use it to have a better understanding of langages like **Python**, **SQL**, **C**, **C++**, **Bash**, **Powershell** and with systems like **Linux**, **MacOs**, **Windows**. 
 I would call myself a very curious person, i dont like the routine so the continuous learning in this field matches perfectly with who i am. 
 
-## Check out the Certificate
 
 
