@@ -4,11 +4,11 @@ I started being interested in the cybersecurity domain less than 1 year ago. I w
 
 ## Currently
 
-I am currently pursuing the Google Cybersecurity Professional Certificate on Coursera. This globally recognized program provides practical skills and in-depth knowledge on topics such as risk management, data protection, and network security principles.
+I completed the Google Cybersecurity Professional Certificate on Coursera. This globally recognized program provides practical skills and in-depth knowledge on topics such as risk management, data protection, and network security principles.
 
-My main goal in completing this certification is to get a job in the cybersecurity industry: prepare myself for new professional challenges, adapt to current market demands,actively contribute to securing systems within my organization. I am confident that this training will help me develop solid expertise and acquire concrete tools to protect digital infrastructures from growing threats.
+My main goal while completing this certification was to get a job in the cybersecurity industry: prepare myself for new professional challenges, adapt to current market demands,actively contribute to securing systems within my organization. I am confident that this training will help me develop solid expertise and acquire concrete tools to protect digital infrastructures from growing threats.
 
-## Next chapter.
+## Next plans.
 
 After that, I would like to take the CompTIA A+, CompTIA Network+ and CompTIA Security+ certifications etc...
 
@@ -18,3 +18,7 @@ I have developed a cybersecurity portfolio showcasing various tasks and projects
 
 I am currently trying to improve my written and verbal communication and i want to get better at programming too. I'm currently in a **1 year program to become Web Developper** which i think can help me discover what makes a good developer in general. I am currently learning langages like **JavaScript**, **Angular**, **PHP**, **Symfony** in my current studies. I want to use it to have a better understanding of langages like **Python**, **SQL**, **C**, **C++**, **Bash**, **Powershell** and with systems like **Linux**, **MacOs**, **Windows**. 
 I would call myself a very curious person, i dont like the routine so the continuous learning in this field matches perfectly with who i am. 
+
+## Check out the Certificate
+
+
